@@ -1,4 +1,4 @@
-# Smart-Health-Monitoring-System
+# Smart Health Monitoring System
 This is an IoT development project, I developed under the internship of Bharat Intern. The system contains the sensors that sense the heart beat and pulse rate of the patient and uploads it to the referred cloud and device.
 
 ## Arduino Code Screenshots:
